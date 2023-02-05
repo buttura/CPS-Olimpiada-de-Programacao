@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ex108m.moeda.aumentar" />
+          <option value="ex108m.moeda.dobro" />
+          <option value="ex108m.moeda.metade" />
+          <option value="ex108m.moeda.diminuir" />
+          <option value="ex108m.moeda.leiafloat" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
